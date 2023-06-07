@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TvishaRaji
 - 👀 I’m interested in frontend technologies
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning Angular, a little bit of React maybe
 - 💞️ I’m looking to collaborate on more interesting projects
 - 📫 How to reach me tvisharaji@gmail.com
 
